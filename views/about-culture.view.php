@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
+<?php include('partials/head.view.php')?>
 	<h1>
 		About our culture
 	</h1>
-</body>
-</html>
+<?php include('partials/footer.view.php')?>
